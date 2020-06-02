@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CourseraWeek3</string>
+    <string name="saludo">Welcome</string>
+    <string name="boton">Enter</string>
+</resources>
